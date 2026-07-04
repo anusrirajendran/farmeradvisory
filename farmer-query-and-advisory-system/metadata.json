@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Query and Advisory System",
+  "description": "An AI-powered agricultural advisory assistant helping smallholder farmers get fast, practical, and multilingual answers about crops, pests, soil, weather, and government schemes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
